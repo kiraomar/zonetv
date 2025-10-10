@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://ab.footballii.ir/hls2/bein1_high.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://ab.footballii.ir/hls2/bein1_mid.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://ab.footballii.ir/hls2/bein1_low.m3u8
