@@ -4,7 +4,7 @@
     "title": "beIN Sports 1",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8",
+    "channelurl": "http://135.125.109.73:9000/beinsport1_.m3u8",
     "description": "OTF",
     "type": "m3u8",
     "isOnline": "1"
@@ -14,7 +14,7 @@
     "title": "beIN Sports 2",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://stream.supertv.gg:3002/supertv/sport/stv2/stv2/adaptive.m3u8",
+    "channelurl": "http://135.125.109.73:9000/beinsport2_.m3u8",
     "description": "OTF",
     "type": "m3u8",
     "isOnline": "1"
