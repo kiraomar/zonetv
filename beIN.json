@@ -1,0 +1,92 @@
+[
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 1",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/0510557bcee84c7a35e23293cf6d4aaa/raw/dencreak_b1.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 2",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/e9d176e04db313167a31cb6b9081ae00/raw/dencreak_b2.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 3",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/23c0c6f3e53966fa76b951ac76b3e55f/raw/dencreak_b3.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 4",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/c4d4a3c2f66e3f4fe36db01c7c420c9c/raw/dencreak_b4.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 5",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/bfacbd7b3157dce7167b359192581bb6/raw/dencreak_b5.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 6",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/0510557bcee84c7a35e23293cf6d4aaa/raw/dencreak_b1.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 7",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/e9d176e04db313167a31cb6b9081ae00/raw/dencreak_b2.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 8",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/23c0c6f3e53966fa76b951ac76b3e55f/raw/dencreak_b3.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  },
+  {
+    "id": "-6000999",
+    "title": "beIN Sports 9",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://gist.githubusercontent.com/iraqapps/c4d4a3c2f66e3f4fe36db01c7c420c9c/raw/dencreak_b4.png",
+    "description": "OTF",
+    "type": "m3u8",
+    "isOnline": "1"
+  }
+]
