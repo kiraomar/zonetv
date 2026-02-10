@@ -4,7 +4,7 @@
     "title": "beIN Sports 1",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://gist.githubusercontent.com/iraqapps/0510557bcee84c7a35e23293cf6d4aaa/raw/dencreak_b1.png",
+    "channelurl": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8",
     "description": "OTF",
     "type": "m3u8",
     "isOnline": "1"
@@ -14,7 +14,7 @@
     "title": "beIN Sports 2",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://gist.githubusercontent.com/iraqapps/e9d176e04db313167a31cb6b9081ae00/raw/dencreak_b2.png",
+    "channelurl": "https://stream.supertv.gg:3002/supertv/sport/stv2/stv2/adaptive.m3u8",
     "description": "OTF",
     "type": "m3u8",
     "isOnline": "1"
