@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-referrer=https://www.hilal4.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://www.hilal4.sbs/x1/3_4.json?token=f1267cba63fc28fe71e22bfdea624d7710ab20230070c1296724a735a6f242cd&expires=1772081675
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://www.hilal4.sbs/x1/3_3.json?token=a2f870cd07626e30113178959f97646be697c774066cc4c365a55df49893a14c&expires=1772081675
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://www.hilal4.sbs/x1/3_2.json?token=99a32ccbaafb19bb8cfe92d5b52e096556ddea2ceb76412e9adf69c2a5095528&expires=1772081675
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-https://www.hilal4.sbs/x1/3_1.json?token=7ee010f4ea13b0b0dd4d83bb6e741d91f6efdf41098c869109cfe53e734c6633&expires=1772081675
